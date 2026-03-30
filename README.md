@@ -34,6 +34,7 @@ The SPF (Sender policy framework) came back as a pass for the explanation of “
 
 
 ![image alt](https://github.com/SavonMasters/Phishing-email-analysis/blob/13b58e50280e9d4f1f5f57f88d85a010c2280b1f/Phishing%20email%205.png)
+![image alt](https://github.com/SavonMasters/Phishing-email-analysis/blob/693011e165f371ba87dfffd30eae2701b14cb628/Phishing%20email%206.png)
 I additionally identified a clickable link “hxxps[://]newjerseysigninstallation.c=
 om/withdraw?” in the “Intitante withdrawal” button. The link does not have any problems; it has no resemblance to the “Voyager Team”.
 
