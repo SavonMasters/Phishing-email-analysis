@@ -25,7 +25,7 @@ I take the first step by looking to see any visible instances to tell if the ema
 I went into the backend of the email to see anything to tie the phishing attack with a person. Then when I looked at the header area of the email I can see the email is trying to say they are from the “Voyager Team notice[@]office.vn”, trying to reach “phishing[@]pot”, on the date “Thursday, 14th September 2023 23:08:42”. Contradicting this is the return path email addresses “ 0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000[@]eu-west-1.amazonses[.]com” a search sent back that “Amazonses[.]com” is potential phishing. 
 
 
-
+![image alt](https://github.com/SavonMasters/Phishing-email-analysis/blob/945039f755d6ef4d6bf340796d077946c9045f7a/Phishing%20email%203.png)
 I used tools to find details on the email address and their IP address, I didn't find any issues with them although the email is telling you that the email is from the “Voyager Team” and the “Voyager Team” were not connected to the email address sent out. 
 
 
