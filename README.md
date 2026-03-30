@@ -16,7 +16,7 @@ It is a necessary skill to have the ability to analyze a phishing email likely t
                                                         Investigation 
 
 
-
+![image alt](https://github.com/SavonMasters/Phishing-email-analysis/blob/c5a49591476d1f6f02d87c55114c6c28e36de1e6/Screenshot%20from%202026-03-19%2017-05-37.png)
 I take the first step by looking to see any visible instances to tell if the email is a legitimate one or a phishing attempt. It is phishing warnings in the email in the way of impersonation: claiming to be “Voyager team”, urgency: “We strongly recommend initiating your in-kind recovery by clicking the button below as soon as possible”, and offering money for clicking on an unusual link. 
 
 
