@@ -29,7 +29,7 @@ I went into the backend of the email to see anything to tie the phishing attack 
 I used tools to find details on the email address and their IP address, I didn't find any issues with them although the email is telling you that the email is from the “Voyager Team” and the “Voyager Team” were not connected to the email address sent out. 
 
 
-
+![image alt](https://github.com/SavonMasters/Phishing-email-analysis/blob/08fe64fc6293ca5acf2eee01546eb30c8ceb7ccc/Phishing%20email%204.png)
 The SPF (Sender policy framework) came back as a pass for the explanation of “Amazonses”  (Amazon simple email service) is a confirmed email provider and would not be bothered by the SPF, DKIM, and DMARC check. 
 
 
