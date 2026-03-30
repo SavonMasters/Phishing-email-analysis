@@ -20,7 +20,7 @@ It is a necessary skill to have the ability to analyze a phishing email likely t
 I take the first step by looking to see any visible instances to tell if the email is a legitimate one or a phishing attempt. It is phishing warnings in the email in the way of impersonation: claiming to be “Voyager team”, urgency: “We strongly recommend initiating your in-kind recovery by clicking the button below as soon as possible”, and offering money for clicking on an unusual link. 
 
 
-
+![image alt](https://github.com/SavonMasters/Phishing-email-analysis/blob/1747538188dcc18fc190e088b63d68118b9837b9/Phishing%20email%201.png)
 I went into the backend of the email to see anything to tie the phishing attack with a person. Then when I looked at the header area of the email I can see the email is trying to say they are from the “Voyager Team notice[@]office.vn”, trying to reach “phishing[@]pot”, on the date “Thursday, 14th September 2023 23:08:42”. Contradicting this is the return path email addresses “ 0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000[@]eu-west-1.amazonses[.]com” a search sent back that “Amazonses[.]com” is potential phishing. 
 
 
