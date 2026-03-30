@@ -67,7 +67,7 @@ om/withdraw?”.
 
                                                         Recommendations
 
-*Block the attackers email and IP address “ 0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000[@]eu-west-1.amazonses[.]com, 54.240.6.245”.
+* Block the attackers email and IP address “ 0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000[@]eu-west-1.amazonses[.]com, 54.240.6.245”.
 
 * Let a Web application firewall block malicious links in emails.
 
