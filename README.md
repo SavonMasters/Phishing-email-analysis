@@ -13,7 +13,7 @@ Date: March 19th, 2026
 It is a necessary skill to have the ability to analyze a phishing email likely to be encountered on a personal devices system. Each email you could highlight inaccuracies on how an attacker shapes a person mind to connect and pass information through a self owned link.  A more inspection into this email I found out how a phishing attempt was taken. 
 
 
-                                                        Investigation 
+                                                      Investigation 
 
 
 ![image alt](https://github.com/SavonMasters/Phishing-email-analysis/blob/c5a49591476d1f6f02d87c55114c6c28e36de1e6/Screenshot%20from%202026-03-19%2017-05-37.png)
@@ -47,30 +47,44 @@ om/withdraw?”. An actual phishing email attack was communicated to our system.
 
                                                         IOCs
 
-A copy email address “notice[@]office[.]vn”.
-The attackers email and IP address “0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000[@]eu-west-1.amazonses[.]com, 54.240.6.245”. 
-The “Voyager Team” not being associated with the “Amazonses” account.
-A chance of an impersonation attack editing their presence to look as “Voyager team”.
-A chance of urgency to transfer funds to your wallet within a decreasing amount of time. 
-A chance of offering money to click on a normal button.
-A link put inside of the button “hxxps[://]newjerseysigninstallation.c=
+* A copy email address “notice[@]office[.]vn”.
+
+* The attackers email and IP address “0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000[@]eu-west-1.amazonses[.]com, 54.240.6.245”. 
+
+* The “Voyager Team” not being associated with the “Amazonses” account.
+
+* A chance of an impersonation attack editing their presence to look as “Voyager team”.
+
+* A chance of urgency to transfer funds to your wallet within a decreasing amount of time. 
+
+* A chance of offering money to click on a normal button.
+
+* A link put inside of the button “hxxps[://]newjerseysigninstallation.c=
 om/withdraw?”.
-MITRE techniques “Phishing T1660”, “Email spoofing T1672”, "Impersonation T1656”, and “Steganography T1027.003”.
+
+* MITRE techniques “Phishing T1660”, “Email spoofing T1672”, "Impersonation T1656”, and “Steganography T1027.003”.
 
 
                                                         Recommendations
 
-Block the attackers email and IP address “ 0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000[@]eu-west-1.amazonses[.]com, 54.240.6.245”.
-Let a Web application firewall block malicious links in emails.
-Use the email service provider built in phishing email blocks to sort emails with mystery origins.  
-An out of place email is seen with problem links, look at the link before you click.
-Block the link and stop trying to view its site “hxxps[://]newjerseysigninstallation.c=
+*Block the attackers email and IP address “ 0102018a95f42f16-b164a8a8-4d38-474c-86ae-a78a822aa447-000000[@]eu-west-1.amazonses[.]com, 54.240.6.245”.
+
+* Let a Web application firewall block malicious links in emails.
+
+* Use the email service provider built in phishing email blocks to sort emails with mystery origins.  
+
+* An out of place email is seen with problem links, look at the link before you click.
+
+* Block the link and stop trying to view its site “hxxps[://]newjerseysigninstallation.c=
 om/withdraw?”.
 
 
                                                         Things I learned 
 
-The backend makeup of an email of how it arranges itself to be sent to a network. 
-How an email mistakes an non educated user to put out their information utilizing appearance, expressive words, and access to a group of rewards.
-The first factors inside of a imagine to see if its set up to phish. 
-Important mitigations to eliminate the opportunity to get phishing emails. 
+* The backend makeup of an email of how it arranges itself to be sent to a network. 
+
+* How an email mistakes an non educated user to put out their information utilizing appearance, expressive words, and access to a group of rewards.
+
+* The first factors inside of a imagine to see if its set up to phish. 
+
+* Important mitigations to eliminate the opportunity to get phishing emails. 
